@@ -1,1 +1,1 @@
-let contador = 2;
+let contador = 10;
